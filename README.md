@@ -1,4 +1,4 @@
-# `@solana/wallet-adapter`
+# `@gemslab/solana-wallet-adapter-react-ui`
 
 Modular TypeScript wallet adapters and components for Solana applications.
 
